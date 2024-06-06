@@ -41,6 +41,8 @@ I chosen typescript language automation framework built using Playwright, a mode
 npx playwright test --ui
 ```
 
+1. With ui we can see timeline with screenshots & network requests for debugging purposes
+
 
 ### Running Tests headless
 
@@ -48,7 +50,7 @@ npx playwright test --ui
 npx playwright test
 ```
 
-### Running Tests headless
+### To see the test results
 
 ```
  npx playwright show-report
@@ -56,5 +58,4 @@ npx playwright test
 ```
 
 ### Test Results
-
-![alt text](https://github.com/Jai-Gogineni/clearScoreTest/blob/master/Screenshot%202019-03-08%20at%2015.36.39.png)
+![alt text](https://github.com/Jai-Gogineni/saucedemo-playwright/blob/main/Screenshot%202024-06-06%20at%2009.25.09.png)
