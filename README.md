@@ -58,4 +58,5 @@ npx playwright test
 ```
 
 ### Test Results
+![alt text](https://github.com/Jai-Gogineni/saucedemo-playwright/blob/main/Screenshot%202024-06-06%20at%2009.47.34.png)
 ![alt text](https://github.com/Jai-Gogineni/saucedemo-playwright/blob/main/Screenshot%202024-06-06%20at%2009.25.09.png)
